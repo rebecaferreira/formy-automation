@@ -9,3 +9,11 @@ Testes realizados via tela nos componentes:
 * datepicker
 * radio button
 * forms
+
+### Foram utilizadas as bibliotecas (gems) ruby:
+* selenium-webdriver
+* webdrivers
+* rspec
+
+### Para executar os testes por linha de comando:
+`rspec nome_do_teste.rb`
