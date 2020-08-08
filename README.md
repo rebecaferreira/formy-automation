@@ -1,4 +1,4 @@
-# Selenium WebDriver com Ruby  ![Ruby](https://scontent.fcpq3-1.fna.fbcdn.net/v/t1.15752-9/102943700_1613147725532985_3450681638490431890_n.png?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=Upze6am185EAX-___hX&_nc_ht=scontent.fcpq3-1.fna&oh=d3249bbe59235d52508f03b45613d316&oe=5F04B456)
+# Selenium WebDriver com Ruby  ![Ruby](https://image.flaticon.com/icons/svg/600/600776.svg)
 
 
 
