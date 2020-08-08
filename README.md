@@ -7,12 +7,19 @@
 ### Conteúdo aprendido no curso Selenium Webdriver with Ruby da [Test Automation University](https://testautomationu.applitools.com)
 
 #### Testes realizados via tela nos componentes:
-* checkbox
-* combobox
-* campos
-* datepicker
-* radio button
-* forms
+
+✔️ checkbox
+
+✔️ combobox
+
+✔️ campos
+
+✔️ datepicker
+
+✔️ radio button
+
+✔️ forms
+
 
 #### Foram utilizadas as bibliotecas (gems) ruby:
 * selenium-webdriver
