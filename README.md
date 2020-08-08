@@ -1,4 +1,4 @@
-# Selenium WebDriver com Ruby  ![Ruby](https://image.flaticon.com/icons/png/128/919/919842.png)
+# Selenium WebDriver com Ruby :gem:
 
 
 
