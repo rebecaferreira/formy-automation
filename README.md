@@ -1,4 +1,4 @@
-# Selenium WebDriver com Ruby :gem:
+# Selenium WebDriver com Ruby ![](https://xesque.rocketseat.dev/platform/tech/ruby.svg)
 
 
 
