@@ -1,4 +1,4 @@
-# Selenium WebDriver com Ruby  ![Ruby](https://image.flaticon.com/icons/svg/600/600776.svg)
+# Selenium WebDriver com Ruby  ![Ruby](https://img.icons8.com/dusk/2x/ruby-programming-language.png)
 
 
 
