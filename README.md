@@ -22,9 +22,12 @@
 
 
 #### Foram utilizadas as bibliotecas (gems) ruby:
-* selenium-webdriver
-* webdrivers
-* rspec
+
+:gem: selenium-webdriver
+
+:gem: webdrivers
+
+:gem: rspec
 
 #### Para executar os testes por linha de comando:
 `rspec nome_do_teste.rb`
