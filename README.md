@@ -28,6 +28,13 @@
 :gem: webdrivers
 
 :gem: rspec
+ 
+#### Antes de executar os testes, é necessário:
 
-#### Para executar os testes por linha de comando:
+* Ter [Ruby](https://rubyinstaller.org/downloads/) instalado
+
+* Digitar `gem install bundler` e `bundle install` na pasta do projeto
+
+
+#### Execução dos testes:
 `rspec nome_do_teste.rb`
