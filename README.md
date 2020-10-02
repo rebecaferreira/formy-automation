@@ -2,17 +2,17 @@
 
 
 
-## Automatizando testes realizados no site [Formy](https://formy-project.herokuapp.com) utilizando selenium webdriver e ruby.
+## Automating tests made on the site [Formy](https://formy-project.herokuapp.com) utilizando selenium webdriver e ruby.
 
-### Conteúdo aprendido no curso Selenium Webdriver with Ruby da [Test Automation University](https://testautomationu.applitools.com)
+### This project content was based on the course Selenium Webdriver with Ruby by [Test Automation University](https://testautomationu.applitools.com)
 
-#### Testes realizados via tela nos componentes:
+#### UI tests made on the following components:
 
 ✔️ checkbox
 
 ✔️ combobox
 
-✔️ campos
+✔️ fields
 
 ✔️ datepicker
 
@@ -21,7 +21,7 @@
 ✔️ forms
 
 
-#### Foram utilizadas as bibliotecas (gems) ruby:
+#### Ruby libraries used (gems):
 
 :gem: selenium-webdriver
 
@@ -29,12 +29,12 @@
 
 :gem: rspec
  
-#### Antes de executar os testes, é necessário:
+#### Before executing the automated tests, it is necessary to:
 
-* Ter [Ruby](https://rubyinstaller.org/downloads/) instalado
+* Install [Ruby](https://rubyinstaller.org/downloads/)
 
-* Digitar `gem install bundler` e `bundle install` na pasta do projeto
+* Type `gem install bundler` & `bundle install` inside the project's folder
 
 
-#### Execução dos testes:
-`rspec nome_do_teste.rb`
+#### Tests execution:
+`rspec name_of_the_test.rb`
