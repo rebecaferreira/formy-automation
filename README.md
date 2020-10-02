@@ -2,7 +2,7 @@
 
 
 
-## Automating tests made on the site [Formy](https://formy-project.herokuapp.com) utilizando selenium webdriver e ruby.
+## Automating tests made on the site [Formy](https://formy-project.herokuapp.com) using Selenium Webdriver and Ruby.
 
 ### This project content was based on the course Selenium Webdriver with Ruby by [Test Automation University](https://testautomationu.applitools.com)
 
